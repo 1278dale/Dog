@@ -1,3 +1,1 @@
-Respository to store miscellaneous code
-FILE FOR README
-My Dog code to learn Predicate
+Dog code to learn predicate matchers
